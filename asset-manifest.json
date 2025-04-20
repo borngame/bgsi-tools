@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.e6c13ad2.css",
+    "main.js": "/react-gh-pages/static/js/main.9b38b719.js",
+    "static/js/453.d59f67ee.chunk.js": "/react-gh-pages/static/js/453.d59f67ee.chunk.js",
+    "static/media/Bubble_Gum.webp": "/react-gh-pages/static/media/Bubble_Gum.930ccb321d1f904ed730.webp",
+    "index.html": "/react-gh-pages/index.html",
+    "main.e6c13ad2.css.map": "/react-gh-pages/static/css/main.e6c13ad2.css.map",
+    "main.9b38b719.js.map": "/react-gh-pages/static/js/main.9b38b719.js.map",
+    "453.d59f67ee.chunk.js.map": "/react-gh-pages/static/js/453.d59f67ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9b38b719.js"
+  ]
+}
