@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/bgsi-tools/static/css/main.8c7c3dd6.css",
+    "main.css": "/bgsi-tools/static/css/main.eb12ab7b.css",
     "main.js": "/bgsi-tools/static/js/main.56fafa2c.js",
     "static/media/favicon.png": "/bgsi-tools/static/media/favicon.79169e7cc534120192a7.png",
     "index.html": "/bgsi-tools/index.html",
-    "main.8c7c3dd6.css.map": "/bgsi-tools/static/css/main.8c7c3dd6.css.map",
+    "main.eb12ab7b.css.map": "/bgsi-tools/static/css/main.eb12ab7b.css.map",
     "main.56fafa2c.js.map": "/bgsi-tools/static/js/main.56fafa2c.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c7c3dd6.css",
+    "static/css/main.eb12ab7b.css",
     "static/js/main.56fafa2c.js"
   ]
 }
